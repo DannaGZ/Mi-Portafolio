@@ -1,0 +1,60 @@
+header{
+    background-image: url(FONDO03.jpg); 
+}
+
+p{
+    text-decoration: aliceblue;
+    text-decoration: solid;
+}
+
+main{
+    background-color: rgb(33, 20, 71);
+    color: aliceblue;
+}
+
+#proyectos .album py-5 bg-body-tertiary{
+    background-color: blueviolet;
+}
+
+#contacto{
+    min-height: 80vh;
+}
+
+.img-proyecto{
+    width: 100%;
+}
+
+.icono-contacto{
+    font-size: 3rem;
+    color: rgb(225, 225, 230);
+    margin: 4px 8px;
+}
+
+#contacto{
+    min-height: 80vh;
+}
+
+.carousel-item{
+    background-color:  rgb(43, 30, 87);
+    border-style: dotted; color: rgb(70, 51, 70);
+    border-radius: 11%;
+}
+
+.cardbody{
+    border: radius 8px;
+}
+
+#tres{
+    background-color: rgb(236, 236, 236);
+    border: 30vh;
+    border-radius: 6%;
+}
+
+#dos{
+    background-color: rgb(179, 171, 160);
+}
+
+#uno{
+    color: rgb(219, 213, 205);
+    
+}
